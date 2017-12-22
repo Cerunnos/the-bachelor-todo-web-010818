@@ -8,7 +8,9 @@ end
 
 def get_contestant_name(data, occupation)
   data.each do |season,contestants|
+    contestant.each do |contestant_stats|
 
+    end
   end
 end
 
